@@ -257,7 +257,32 @@ const affirmations = [
     affirmation: "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid",
     source: "Second Sex Conference, NY, 1979",
     author: "Audre Lorde"
-  }
+  },
+  {
+  affirmation:
+    "Difficult roads often lead to beautiful destinations. Don't quit.",
+  author: "Unknown"
+  },
+  {
+  affirmation:
+    "What we do is more important than what we say or what we say we believe.",
+  author: "bell hooks"
+  },
+  {
+  affirmation:
+    "Your self-worth is determined by you. You don't have to depend on someone telling you who you are.",
+  author: "Beyonce"
+  },
+  {
+   affirmation:
+     "Lock up your libraries if you like, but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.",
+   author: "Virginia Woolf"
+  },
+  {
+  affirmation:
+       "Take up space.",
+  author: "Unknown"
+  }         
   
 ];
 
